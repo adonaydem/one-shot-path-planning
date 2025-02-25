@@ -10,12 +10,14 @@ This project focuses on object localization and path planning using an optimized
 ---
 
 ## Algorithm
-The path planning is based on A* (A-Star), a widely used algorithm for graph traversal and shortest path problems. It works as follows:
+The path planning is based on OpenCV and A* (A-Star), a widely used algorithm for graph traversal and shortest path problems. It works as follows:
 
 1. **Cost Tracking:** Maintains both the actual cost (`g_score`) from the start and an estimated total cost (`f_score`).
 2. **Node Selection:** Prioritizes the node with the lowest `f_score`.
 3. **Path Reconstruction:** Once the goal is reached, the route is traced back using stored parent nodes.
 4. **Handling Revisited Paths:** If a path is revisited, an alternative rendering technique ensures clear visualization by slightly offsetting overlapping paths.
+
+You gotta love OpenCV!!! This is all thanks to the various scientific implementations(Canny, Hough Transform) given by OpenCV.
 
 ---
 
