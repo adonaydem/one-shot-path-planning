@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This project focuses on object localization and path planning using an optimized search algorithm. The approach ensures efficient navigation while handling revisited paths in a structured manner.
+This project focuses on object localization and path planning for autonomous robots in a grid-based environment.
 
 ---
 
