@@ -1,4 +1,4 @@
-# One-Shot Multi-Object Localization and Path Planning
+# End-to-End Multi-Object Localization and Path Planning
 
 ### By Adonay Gebremedhin
 
