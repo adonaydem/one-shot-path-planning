@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This project focuses on object localization and path planning for autonomous robots in a grid-based environment.
+This project focuses on object localization and path planning for autonomous robots in a grid-based environment. This code incorporates various computer vision and other vanilla algorithms into one pipeline.
 
 ---
 
